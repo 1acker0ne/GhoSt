@@ -1,2 +1,2 @@
 # GhoSt
-#Game
+<h1>Game
